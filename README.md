@@ -10,9 +10,11 @@
 [A descrição da atividade](atividade.md)
 
 ---
+
 ## Relato da atividade
 
-Nome do aluno e seu link do linkedin e github
+Aluno: Pedro Lucas Oliveira de Sousa  
+[Github](https://github.com/pdroluc4as)
 
 ### Frontend mobile no navegador
 
