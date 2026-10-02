@@ -18,10 +18,10 @@ Aluno: Pedro Lucas Oliveira de Sousa
 
 ### Frontend mobile no navegador
 
-> Publica aqui o print da aplicação react native no navegador
+![print da aplicação no navegador](/app/desktop-print.jpeg)
 
 ### Frontend mobile no celular
 
-> Publica aqui o print da aplicação react native no celular
+![print da aplicação no celular](app/mobile-print.jpeg)
 
 ---
